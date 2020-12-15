@@ -4,7 +4,9 @@
             "classicName":"电影&电视剧&综艺&动漫",
             "bookSourceUrl":"",
             "classicUrls":"type/{}.html&m&tv&va&ct",
-            "classicRules":"//*[@class=\"myui-vodlist clearfix\"]/li&/a/@title&/a/@href&/a/@data-original&/div[2]/p",
+            "classicRules":"//*[@class=\"myui-vodlist clearfix\"]/li&//a[contains(@class, \"lazyload\")]/@title&//a[contains(@class, \"lazyload\")]/@href&//a[contains(@class, \"lazyload\")]/@data-original&//p[contains(@class, \"text \")]/text()&//span[contains(@class,\"pic-text\")]/text()&//span[contains(@class,\"pic-tag\")]/text()
+
+",
             "searchUrl":"https://www.sigu.cc/search/{key}-------------.html",
             "searchRules":"思古影视",
             "chapterRules":"思古影视",
