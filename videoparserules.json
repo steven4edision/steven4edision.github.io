@@ -9,9 +9,11 @@
 ",
             "searchUrl":"https://www.sigu.cc/search/{key}-------------.html",
             "searchRules":"思古影视",
-            "chapterRules":"思古影视",
+            "chapterRules":"//*[@class=\"tab-content myui-panel_bd\"]/div&//li&//a/allText()&//a/@href",
             "requestHeaders":"思古影视",
-            "adBlockUrls":"思古影视"
+            "adBlockUrls":"思古影视",
+              "hasClassic":"true",
+              "hasSearch":"true"
             },{"title":"思古影视",
                "netUrl":"18禁",
             "netType":"龙腾小说网🔞~longteng32.com",
@@ -23,4 +25,6 @@
             "searchRules":"思古影视",
             "chapterRules":"思古影视",
             "requestHeaders":"思古影视",
-            "adBlockUrls":"思古影视" }]
+            "adBlockUrls":"思古影视",
+              "hasClassic":"true",
+              "hasSearch":"true"}]
