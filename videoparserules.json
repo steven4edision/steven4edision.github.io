@@ -2,7 +2,6 @@
                 "netUrl":"https://www.sigu.cc/",
             "netType":"type1",
             "classicName":"电影&电视剧&综艺&动漫",
-            "bookSourceUrl":"",
             "classicUrls":"type/{}.html&m&tv&va&ct",
             "classicRules":"//*[@class=\"myui-vodlist clearfix\"]/li&//a[contains(@class, \"lazyload\")]/@title&//a[contains(@class, \"lazyload\")]/@href&//a[contains(@class, \"lazyload\")]/@data-original&//p/allText()&//span[3]/allText()&//span[2]/allText()
 
@@ -18,7 +17,6 @@
                "netUrl":"18禁",
             "netType":"龙腾小说网🔞~longteng32.com",
             "classicName":"18禁",
-            "bookSourceUrl":"http://www.longteng32.com",
             "classicUrls":"18禁",
             "classicRules":"18禁",
             "searchUrl":"1563072557251",
