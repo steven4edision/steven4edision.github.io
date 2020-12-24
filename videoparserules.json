@@ -7,7 +7,7 @@
 
 ",
             "searchUrl":"https://www.sigu.cc/search/-------------.html?wd={key}&submit=",
-            "searchRules":"//*[@id=\"searchList\"]/li&//a[contains(@class, \"lazyload\")]/@title&//a[contains(@class, \"lazyload\")]/@href&//a[contains(@class, \"lazyload\")]/@data-original&//[@class=\"hidden-xs\"]/text()",
+            "searchRules":"//*[@id=\"searchList\"]/li&//a[contains(@class, \"lazyload\")]/@title&//a[contains(@class, \"lazyload\")]/@href&//a[contains(@class, \"lazyload\")]/@data-original&//div[@class=\"detail\"]/p[@class=\"hidden-xs\"]/allText()",
             "chapterRules":"//*[@class=\"tab-content myui-panel_bd\"]/div&//li&//a/allText()&//a/@href",
             "requestHeaders":"思古影视",
             "adBlockUrls":"思古影视",
